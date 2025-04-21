@@ -1,0 +1,10 @@
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\bin\Debug\Advanced Database Topics.exe.config
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\bin\Debug\Advanced Database Topics.exe
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\bin\Debug\Advanced Database Topics.pdb
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced Database Topics.csproj.AssemblyReference.cache
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced_Database_Topics.Form1.resources
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced_Database_Topics.Properties.Resources.resources
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced Database Topics.csproj.GenerateResource.cache
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced Database Topics.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced Database Topics.exe
+C:\Users\yahya\Desktop\Software\C#\Form Uygulamaları\Advanced Database Topics\obj\Debug\Advanced Database Topics.pdb

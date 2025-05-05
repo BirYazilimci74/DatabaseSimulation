@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|c:\\users\\yahya\\desktop\\software\\c#\\form uygulamalar\u0131\\advanced database topics ii\\simulationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|solutionrelative:simulationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|c:\\users\\yahya\\desktop\\software\\c#\\form uygulamalar\u0131\\advanced database topics ii\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|solutionrelative:simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|c:\\users\\yahya\\desktop\\software\\c#\\form uygulamalar\u0131\\advanced database topics ii\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|solutionrelative:databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|c:\\users\\yahya\\desktop\\software\\c#\\form uygulamalar\u0131\\advanced database topics ii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47796576-7C87-4556-A50B-AED868577A8C}|Advanced Database Topics II.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationModel.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\SimulationModel.cs",
+              "RelativeDocumentMoniker": "SimulationModel.cs",
+              "ToolTip": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\SimulationModel.cs",
+              "RelativeToolTip": "SimulationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:04:09.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseOperations.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\DatabaseOperations.cs",
+              "RelativeDocumentMoniker": "DatabaseOperations.cs",
+              "ToolTip": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\DatabaseOperations.cs",
+              "RelativeToolTip": "DatabaseOperations.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:40:45.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\Simulation.cs",
+              "RelativeDocumentMoniker": "Simulation.cs",
+              "ToolTip": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\Simulation.cs",
+              "RelativeToolTip": "Simulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:41:03.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\yahya\\Desktop\\Software\\C#\\Form Uygulamalar\u0131\\Advanced Database Topics II\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:39:59.453Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 763,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 763,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

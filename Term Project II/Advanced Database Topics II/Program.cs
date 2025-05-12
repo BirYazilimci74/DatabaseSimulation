@@ -16,7 +16,7 @@ namespace Advanced_Database_Topics_II
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SimulationPage());
         }
     }
 }

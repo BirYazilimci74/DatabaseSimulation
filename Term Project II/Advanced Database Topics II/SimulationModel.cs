@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace Advanced_Database_Topics_II
 {
-    public class SimulationModel
-    {
-    }
+    
 }

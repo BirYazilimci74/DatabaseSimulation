@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Advanced_Database_Topics_II.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Advanced_Database_Topics_II
@@ -71,8 +73,10 @@ namespace Advanced_Database_Topics_II
         private readonly string _connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=AdventureWorks2022;Integrated Security=True;MultipleActiveResultSets=True;Connect Timeout=120;Max Pool Size=100000;";
 
 
-        public async Task ExecuteQuery1Async()
+        public async Task<(List<Query1Model>,int)> ExecuteQuery1Async()
         {
+            var result = new List<Query1Model>();
+
             try
             {
                 using (var connection = new SqlConnection(_connectionString))
@@ -92,10 +96,20 @@ namespace Advanced_Database_Topics_II
                                 var city = reader.GetString(2);
                                 var totalOrderQty = reader.GetInt32(3);
                                 var totalLineTotal = reader.GetDecimal(4);
+
+                                result.Add(new Query1Model
+                                {
+                                    OrderDate = orderDate,
+                                    StateProvinceName = stateProvinceName,
+                                    City = city,
+                                    TotalOrderQty = totalOrderQty,
+                                    TotalLineTotal = totalLineTotal
+                                });
                             }
                         }
                     }
                 }
+                return (result.Take(10).ToList(), result.Count);
             }
             catch (Exception)
             {
@@ -104,8 +118,10 @@ namespace Advanced_Database_Topics_II
             }
         }
 
-        public async Task ExecuteQuery2Async()
+        public async Task<(List<Query2Model>,int)> ExecuteQuery2Async()
         {
+            var result = new List<Query2Model>();
+
             try
             {
                 using (var connection = new SqlConnection(_connectionString))
@@ -124,10 +140,20 @@ namespace Advanced_Database_Topics_II
                                 var categoryName = reader.GetString(1);
                                 var totalOrderQty = reader.GetInt32(2);
                                 var totalLineTotal = reader.GetDecimal(3);
+
+                                result.Add(new Query2Model
+                                {
+                                    OrderDate = orderDate,
+                                    CategoryName = categoryName,
+                                    TotalOrderQty = totalOrderQty,
+                                    TotalLineTotal = totalLineTotal
+                                });
                             }
                         }
                     }
                 }
+
+                return (result.Take(10).ToList(), result.Count);
             }
             catch (Exception)
             {
@@ -136,8 +162,10 @@ namespace Advanced_Database_Topics_II
             }
         }
 
-        public async Task ExecuteQuery3Async()
+        public async Task<(List<Query3Model>,int)> ExecuteQuery3Async()
         {
+            var result = new List<Query3Model>();
+
             try
             {
                 using (var connection = new SqlConnection(_connectionString))
@@ -156,10 +184,20 @@ namespace Advanced_Database_Topics_II
                                 var categoryName = reader.GetString(1);
                                 var totalOrderQty = reader.GetInt32(2);
                                 var totalLineTotal = reader.GetDecimal(3);
+
+                                result.Add(new Query3Model
+                                {
+                                    StoreName = storeName,
+                                    CategoryName = categoryName,
+                                    TotalOrderQty = totalOrderQty,
+                                    TotalLineTotal = totalLineTotal
+                                });
                             }
                         }
                     }
                 }
+
+                return (result.Take(10).ToList(),result.Count);
             }
             catch (Exception)
             {
